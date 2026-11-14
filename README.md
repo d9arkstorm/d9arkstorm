@@ -1,166 +1,102 @@
-<h1 align="center">Hey 👋, I'm Darkstorm</h1>
 
-<h3 align="center">
-  Full Stack Developer | Discord Developer | Software Engineer
-</h3>
-
-<p align="center">
-  Building digital experiences, powerful Discord systems, and modern applications.
-</p>
-
-<p align="center">
-  <a href="https://github.com/S9hadow">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://trivus.site/">
-    <img src="https://img.shields.io/badge/TRIVUS-00C9B7?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://discord.gg/Trivus">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-I'm Darkstorm, a developer passionate about building software, automation systems, and modern digital experiences.
-
-I focus on developing Discord bots, advanced server management systems, web applications, and professional dashboards.
-
-I enjoy exploring new technologies, solving complex problems, and turning ideas into functional products.
-
-- 🔭 Currently working on **TRIVUS**
-- 🤖 Specialized in Discord Bot Development
-- 🌐 Building modern websites and dashboards
-- ⚙️ Interested in automation and system architecture
-- 💻 Working with Node.js, JavaScript, and Python
-- 🗄️ Working with databases and backend systems
-- 🚀 Always learning and improving my development skills
-
----
-
-### 🛠️ Tech Stack & Tools
+# Hey 👋, I'm Darkstorm!
 
 <p align="left">
-
-<a href="https://nodejs.org/">
-<img src="https://skillicons.dev/icons?i=nodejs" width="45">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" width="45">
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="45">
-</a>
-
-<a href="https://www.mongodb.com/">
-<img src="https://skillicons.dev/icons?i=mongodb" width="45">
-</a>
-
-<a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" width="45">
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="45">
-</a>
-
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="45">
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" width="45">
-</a>
-
-<a href="https://www.linux.org/">
-<img src="https://skillicons.dev/icons?i=linux" width="45">
-</a>
-
-<a href="https://www.cloudflare.com/">
-<img src="https://skillicons.dev/icons?i=cloudflare" width="45">
-</a>
-
+  <a href="https://github.com/S9hadow">
+    <img src="https://img.shields.io/badge/GitHub-S9hadow-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://trivus.site/">
+    <img src="https://img.shields.io/badge/TRIVUS-Website-20BFA9?style=flat&logo=googlechrome&logoColor=white" alt="TRIVUS"/>
+  </a>
+  <a href="https://discord.gg/Trivus">
+    <img src="https://img.shields.io/badge/TRIVUS-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
 
----
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=20BFA9&width=650&lines=Discord+Bot+Developer;Full+Stack+Developer;Building+TRIVUS;Node.js+%7C+JavaScript+%7C+Python;Turning+Ideas+Into+Code" alt="Typing SVG"/>
+</p>
 
-### 🚀 Featured Projects
+I am a developer passionate about building powerful applications, Discord bots, automation systems, and modern web experiences.
 
-<table>
-<tr>
-<td width="50%">
+I enjoy exploring new technologies, solving complex problems, and turning ideas into functional products. My main focus is building scalable Discord systems and professional web dashboards.
 
-<h3 align="center">TRIVUS</h3>
+<br/>
+
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360px"/>
+
+### 🧐 More About Me:
+
+- 🔭 &nbsp; Currently working on **TRIVUS**
+- 💻 &nbsp; Developing Discord Bots and Web Applications
+- 🌐 &nbsp; My website: [TRIVUS](https://trivus.site/)
+- 👨🏻‍💻 &nbsp; My projects: [GitHub Repositories](https://github.com/S9hadow?tab=repositories)
+- ⚙️ &nbsp; Focused on **Node.js, JavaScript & Python**
+- 🗄️ &nbsp; Working with **MongoDB** and backend systems
+- 🤖 &nbsp; Interested in automation, APIs and system architecture
+- 💬 &nbsp; Ask me about Discord development and programming
+- 🛒 &nbsp; Visit my [TRIVUS Store](https://discord.gg/Trivus)
+- 👥 &nbsp; Join the [TRIVUS Community](https://discord.gg/Triva)
+
+<br/>
+<br/>
+
+### 🔨 Languages and Tools:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,py,mongodb,html,css,git,github,vscode&perline=9" alt="Languages and Tools"/>
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord.js"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-20BFA9?style=flat" alt="REST APIs"/>
+</p>
+
+<br/>
+
+### 📊 GitHub Stats
 
 <p align="center">
-A professional Discord bot platform offering advanced server systems, automation, and management solutions.
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=S9hadow&show_icons=true&hide_border=true&theme=transparent&title_color=20BFA9&icon_color=20BFA9" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S9hadow&layout=compact&hide_border=true&theme=transparent&title_color=20BFA9" alt="Most Used Languages"/>
 </p>
+
+<br/>
+
+### 🔥 Contribution Streak
 
 <p align="center">
-<a href="https://trivus.site/">
-<img src="https://img.shields.io/badge/Visit%20Website-00C9B7?style=for-the-badge">
-</a>
+  <img src="https://streak-stats.demolab.com?user=S9hadow&theme=transparent&hide_border=true&ring=20BFA9&fire=20BFA9&currStreakLabel=20BFA9" alt="GitHub Streak"/>
 </p>
 
-</td>
+<br/>
 
-<td width="50%">
+### 🛠️ My Projects
 
-<h3 align="center">Discord Development</h3>
-
-<p align="center">
-Custom Discord bots, advanced management systems, automation tools, and interactive dashboards.
+<p align="left">
+  <a href="https://trivus.site/" target="_blank">
+    <img src="https://img.shields.io/badge/TRIVUS-Discord%20Bot%20Store-20BFA9?style=for-the-badge&logo=discord&logoColor=white" alt="TRIVUS" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/S9hadow/trivus.site" target="_blank">
+    <img src="https://img.shields.io/badge/TRIVUS-Website%20Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="TRIVUS Source" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/S9hadow?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/More%20Projects-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="More Projects" height="35"/>
+  </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/S9hadow?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20Projects-181717?style=for-the-badge&logo=github">
-</a>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=S9hadow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S9hadow&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=S9hadow&theme=tokyonight&hide_border=true">
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-<a href="https://github.com/S9hadow">
-<img src="https://img.shields.io/badge/GitHub-S9hadow-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://discord.gg/Trivus">
-<img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord">
-</a>
-
-<a href="https://discord.gg/Triva">
-<img src="https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord">
-</a>
-</p>
+<br/>
 
 ---
 
 <p align="center">
-  <i>Turning ideas into code, and code into reality.</i>
+  <img src="https://komarev.com/ghpvc/?username=S9hadow&style=flat&color=20BFA9&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
-<h3 align="center">Thanks for visiting my profile! 👋</h3>
+<p align="center">
+  <b>Building Ideas. Writing Code. Creating TRIVUS.</b>
+</p>
